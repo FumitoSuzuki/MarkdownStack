@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1328 434" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-360,-1113)">
+        <g id="appear">
+            <g transform="matrix(1,0,0,1,-84.7642,346.497)">
+                <circle cx="624.978" cy="1019.5" r="179.259" style="fill:rgb(0,141,255);fill-opacity:0.5;"/>
+                <path d="M624.978,840.243C723.914,840.243 804.238,920.567 804.238,1019.5C804.238,1118.44 723.914,1198.76 624.978,1198.76C526.042,1198.76 445.719,1118.44 445.719,1019.5C445.719,920.567 526.042,840.243 624.978,840.243ZM624.978,842.243C722.81,842.243 802.238,921.671 802.238,1019.5C802.238,1117.34 722.81,1196.76 624.978,1196.76C527.146,1196.76 447.719,1117.34 447.719,1019.5C447.719,921.671 527.146,842.243 624.978,842.243Z" style="fill:rgb(0,141,255);"/>
+                <g transform="matrix(1,0,0,1,-27.2653,-393.521)">
+                    <text x="615.938px" y="1427.28px" style="font-family:'HiraginoSans-W3', 'Hiragino Sans', sans-serif;font-weight:300;font-size:36px;fill:white;">企画</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,219.762,346.497)">
+                <circle cx="624.978" cy="1019.5" r="179.259" style="fill:rgb(0,141,255);fill-opacity:0.5;"/>
+                <path d="M624.978,840.243C723.914,840.243 804.238,920.567 804.238,1019.5C804.238,1118.44 723.914,1198.76 624.978,1198.76C526.042,1198.76 445.719,1118.44 445.719,1019.5C445.719,920.567 526.042,840.243 624.978,840.243ZM624.978,842.243C722.81,842.243 802.238,921.671 802.238,1019.5C802.238,1117.34 722.81,1196.76 624.978,1196.76C527.146,1196.76 447.719,1117.34 447.719,1019.5C447.719,921.671 527.146,842.243 624.978,842.243Z" style="fill:rgb(0,141,255);"/>
+                <g transform="matrix(1,0,0,1,-27.2653,-393.521)">
+                    <text x="598.099px" y="1427.28px" style="font-family:'HiraginoSans-W3', 'Hiragino Sans', sans-serif;font-weight:300;font-size:36px;fill:white;">UI/UX</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,578.281,346.497)">
+                <circle cx="624.978" cy="1019.5" r="179.259" style="fill:rgb(112,0,255);fill-opacity:0.5;"/>
+                <path d="M624.978,840.243C723.914,840.243 804.238,920.567 804.238,1019.5C804.238,1118.44 723.914,1198.76 624.978,1198.76C526.042,1198.76 445.719,1118.44 445.719,1019.5C445.719,920.567 526.042,840.243 624.978,840.243ZM624.978,842.243C722.81,842.243 802.238,921.671 802.238,1019.5C802.238,1117.34 722.81,1196.76 624.978,1196.76C527.146,1196.76 447.719,1117.34 447.719,1019.5C447.719,921.671 527.146,842.243 624.978,842.243Z" style="fill:rgb(112,0,255);"/>
+                <g transform="matrix(1,0,0,1,-27.2653,-393.521)">
+                    <text x="597.938px" y="1427.28px" style="font-family:'HiraginoSans-W3', 'Hiragino Sans', sans-serif;font-weight:300;font-size:36px;fill:white;">アプリ</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,882.808,346.497)">
+                <circle cx="624.978" cy="1019.5" r="179.259" style="fill:rgb(112,0,255);fill-opacity:0.5;"/>
+                <path d="M624.978,840.243C723.914,840.243 804.238,920.567 804.238,1019.5C804.238,1118.44 723.914,1198.76 624.978,1198.76C526.042,1198.76 445.719,1118.44 445.719,1019.5C445.719,920.567 526.042,840.243 624.978,840.243ZM624.978,842.243C722.81,842.243 802.238,921.671 802.238,1019.5C802.238,1117.34 722.81,1196.76 624.978,1196.76C527.146,1196.76 447.719,1117.34 447.719,1019.5C447.719,921.671 527.146,842.243 624.978,842.243Z" style="fill:rgb(112,0,255);"/>
+                <g transform="matrix(1,0,0,1,-27.2653,-393.521)">
+                    <text x="579.938px" y="1427.28px" style="font-family:'HiraginoSans-W3', 'Hiragino Sans', sans-serif;font-weight:300;font-size:36px;fill:white;">インフラ</text>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g transform="matrix(1,0,0,0.819001,0,194.917)">
+                        <path d="M1024,1147.84L1024,1648.77" style="fill:none;stroke:rgb(128,128,128);stroke-width:2.19px;"/>
+                    </g>
+                    <g transform="matrix(1,-0,-0,1,360,1113)">
+                        <path d="M496.741,12.996L484.741,21.996L496.741,30.996L496.741,12.996Z" style="fill:rgb(128,128,128);"/>
+                        <path d="M831.259,12.996L843.259,21.996L831.259,30.996L831.259,12.996Z" style="fill:rgb(128,128,128);"/>
+                        <path d="M494.341,21.996L833.659,21.996" style="fill:none;stroke:rgb(128,128,128);stroke-width:2px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,189.175,32.3851)">
+                    <text x="447.064px" y="1113.07px" style="font-family:'HiraginoSans-W3', 'Hiragino Sans', sans-serif;font-weight:300;font-size:28px;fill:rgb(128,128,128);">企画領域</text>
+                </g>
+                <g transform="matrix(1,0,0,1,852.221,32.3851)">
+                    <text x="447.064px" y="1113.07px" style="font-family:'HiraginoSans-W3', 'Hiragino Sans', sans-serif;font-weight:300;font-size:28px;fill:rgb(128,128,128);">実装領域</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
